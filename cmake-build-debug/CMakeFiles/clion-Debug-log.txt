@@ -1,0 +1,4 @@
+"C:\Users\davii\AppData\Local\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/davii/AppData/Local/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\davii\OneDrive - Mittuniversitetet\Skrivbordet\Universitet\Tredje år\Term_2\Period_1\Programsprålteori(DT096G)\Labb_1" -B "C:\Users\davii\OneDrive - Mittuniversitetet\Skrivbordet\Universitet\Tredje år\Term_2\Period_1\Programsprålteori(DT096G)\Labb_1\cmake-build-debug"
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/Labb_1/cmake-build-debug

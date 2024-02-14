@@ -1,0 +1,3 @@
+C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/Labb_1/cmake-build-debug/CMakeFiles/Labb_1.dir
+C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/Labb_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/davii/OneDrive - Mittuniversitetet/Skrivbordet/Universitet/Tredje år/Term_2/Period_1/Programsprålteori(DT096G)/Labb_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
